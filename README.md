@@ -2,6 +2,4 @@
 This mini project is for MKEL 1173 Advance Digital System
 of Kwong Ming You and Yeap Yong Yew
 For more information, please refer to 
-http://mingyyou.blogspot.com/2015/12/fpga-implementation-of-median-filter.html
-or
 https://mykwong.wordpress.com/2015/12/30/fpga-implementation-of-median-filter/
